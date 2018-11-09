@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dsqt_1805:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="dsqt_1805-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="dsqt_1805:war exploded" />
+    </root>
+  </artifact>
+</component>
